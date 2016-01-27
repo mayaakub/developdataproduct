@@ -1,7 +1,7 @@
 Develop Data Product with Shiny
 ========================================================
 author: Mohd Azahari b. Yaakub
-date: 24-Jan-2016
+date: 27-Jan-2016
 
 Introduction
 ========================================================
@@ -22,7 +22,7 @@ The Main Page
 
 
 ```
-'data.frame':	893 obs. of  4 variables:
+'data.frame':	894 obs. of  4 variables:
  $ YEAR : int  2013 2013 2013 2013 2013 2013 2013 2013 2013 2013 ...
  $ MONTH: Factor w/ 12 levels "Apr","Aug","Dec",..: 6 6 2 2 2 2 2 2 2 2 ...
  $ DAY  : int  30 31 1 2 3 4 5 6 7 8 ...
